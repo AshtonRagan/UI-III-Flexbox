@@ -1,0 +1,58 @@
+* {
+  max-width: 90%;
+  margin: 5%;
+}
+body {
+  margin-left: 15%;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+  align-content: space-between;
+}
+.nav a {
+  width: 20%;
+}
+.section1 {
+  margin: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section1 .innovo {
+  margin-right: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.section1 .innovo h1 {
+  font-size: 55px;
+  text-align: center;
+}
+.section2 {
+}
+.s2top {
+  display: flex;
+}
+.section2 .s2top div {
+}
+.section2 .s2bottom {
+  display: flex;
+}
+.section2 .image {
+  margin: 5%;
+  display: flex;
+  justify-content: center;
+}
+.section2 .image img {
+  margin: 5px;
+  width: 100%;
+}
+
+footer {
+  margin: 5%;
+}
+footer h4 {
+}
+
+/* ----------------service page------------- */
